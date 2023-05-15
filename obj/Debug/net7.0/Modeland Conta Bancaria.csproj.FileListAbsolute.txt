@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\bin\Debug\net7.0\Modeland Conta Bancaria.exe
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\bin\Debug\net7.0\Modeland Conta Bancaria.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\bin\Debug\net7.0\Modeland Conta Bancaria.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\bin\Debug\net7.0\Modeland Conta Bancaria.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\bin\Debug\net7.0\Modeland Conta Bancaria.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\obj\Debug\net7.0\Modeland Conta Bancaria.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\obj\Debug\net7.0\Modeland Conta Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\obj\Debug\net7.0\Modeland Conta Bancaria.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\obj\Debug\net7.0\Modeland Conta Bancaria.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\obj\Debug\net7.0\Modeland Conta Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\obj\Debug\net7.0\Modeland Conta Bancaria.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\obj\Debug\net7.0\refint\Modeland Conta Bancaria.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\obj\Debug\net7.0\Modeland Conta Bancaria.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\obj\Debug\net7.0\Modeland Conta Bancaria.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Modeland Conta Bancaria\obj\Debug\net7.0\ref\Modeland Conta Bancaria.dll

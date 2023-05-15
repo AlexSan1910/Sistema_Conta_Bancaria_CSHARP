@@ -1,0 +1,21 @@
+Exercício: Modelando uma conta bancária
+
+Crie uma classe chamada ContaBancaria que represente uma conta bancária com os seguintes atributos:
+
+numero: um número inteiro que representa o número da conta.
+
+titular: uma string que representa o nome do titular da conta.
+
+saldo: um número decimal que representa o saldo atual da conta.
+
+
+
+A classe ContaBancaria deve ter os seguintes métodos:
+
+depositar(valor): adiciona o valor especificado ao saldo da conta.
+
+sacar(valor): subtrai o valor especificado do saldo da conta, desde que haja saldo suficiente.
+
+transferir(conta_destino, valor): transfere o valor especificado da conta atual para a conta especificada como parâmetro conta_destino, desde que haja saldo suficiente na conta atual.
+
+consultar_saldo(): retorna o saldo atual da conta.
