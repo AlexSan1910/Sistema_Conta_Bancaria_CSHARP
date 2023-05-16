@@ -49,7 +49,7 @@ namespace ExercicioBancario{
             if (Saldo >= saque){
                 Saldo -= saque;
             } else {
-                Console.WriteLine("Sinto Muito o seu Saldo é insuficiente!");
+                Console.WriteLine(Environment.NewLine + "Sinto Muito o seu Saldo é insuficiente!");
             }
             
         }
@@ -58,7 +58,10 @@ namespace ExercicioBancario{
 
             // só deve ser feito a transferencia se o mesmo tiver um saldo suficiente
             if(Saldo >= valorTransferencia){
+                Saldo -= valorTransferencia;
                 contaDestino.Depositar(valorTransferencia); // estou utilizando o metodo depositar para depositar o valor "valorTransferencia" na outra conta "ContaDestino"
+            }else{
+                Console.WriteLine("Sinto Muito, Você não possui esse valor em sua conta para transferir");
             }
 
         }
@@ -66,6 +69,10 @@ namespace ExercicioBancario{
         public decimal ConsultarSaldoAtual(){
             return Saldo;
         }
+
+        // Definindo o ToSting
+
+        
 
 
         
